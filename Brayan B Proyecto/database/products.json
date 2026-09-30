@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6abd777a6e56185fe23861d4"
+  },
+  "nombre": "Laptop Asus Gamer",
+  "precio": 3500000,
+  "stock": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6abd79316e56185fe23861d9"
+  },
+  "nombre": "Mouse Inalámbrico Logitech",
+  "precio": 120000,
+  "stock": 15,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6abd793b6e56185fe23861da"
+  },
+  "nombre": "Teclado Mecánico RGB",
+  "precio": 250000,
+  "stock": 8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6abd79476e56185fe23861db"
+  },
+  "nombre": "Monitor Gamer 24 pulgadas",
+  "precio": 850000,
+  "stock": 4,
+  "__v": 0
+}]
